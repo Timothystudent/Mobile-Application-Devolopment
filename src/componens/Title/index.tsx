@@ -12,11 +12,13 @@ const Title = ({text}) => {
 
 const header = StyleSheet.create({
     input: {
-        fontSize: 20, 
-        color: 'blue', 
+        fontSize: 35, 
+        color: 'black', 
         fontWeight:'bold', 
-        textAlign:'center',
-        margin: 10
+        textAlign:'left',
+        paddingBottom: 30,
+        marginLeft:10,
+        marginTop:15,
     },
 });
 

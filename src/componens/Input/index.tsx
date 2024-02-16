@@ -8,9 +8,9 @@ const Input = ({placeholder}) => {
 const style = StyleSheet.create({
     input: {
         borderWidth: 1,
-        margin: 10,
+        marginHorizontal: 20,
         padding: 10,
-        borderRadius: 20,
+        borderRadius: 10,
     },
 });
 
